@@ -8,7 +8,7 @@
 <entry key="authored-by" type="xstring" value="thekeymaker"/>
 <entry key="authored-when" type="xstring" value="2018-10-10 15:24:17 +0200"/>
 <entry key="lastEdited-by" type="xstring" value="thekeymaker"/>
-<entry key="lastEdited-when" type="xstring" value="2018-10-11 10:48:55 +0200"/>
+<entry key="lastEdited-when" type="xstring" value="2018-10-17 12:44:58 +0200"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -266,6 +266,22 @@
 <entry key="0" type="xint" value="1024"/>
 <entry key="1" type="xint" value="517"/>
 <entry key="2" type="xint" value="102"/>
+<entry key="3" type="xint" value="78"/>
+</config>
+</config>
+</config>
+<config key="node_17">
+<entry key="id" type="xint" value="17"/>
+<entry key="node_settings_file" type="xstring" value="File Reader (#17)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="node_type" type="xstring" value="NativeNode"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="444"/>
+<entry key="1" type="xint" value="237"/>
+<entry key="2" type="xint" value="69"/>
 <entry key="3" type="xint" value="78"/>
 </config>
 </config>
